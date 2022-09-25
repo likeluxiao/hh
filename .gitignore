@@ -1,0 +1,7 @@
+*.pyc
+*.egg-info
+*.png
+dist/
+pyenv/
+.venv/
+generation-*.pb.json
